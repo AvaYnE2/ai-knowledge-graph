@@ -40,7 +40,7 @@ To start the development server, run the following command:
     npm run dev
     ```
 
-The application will be available at `localhost:3000`.
+The application will be available at `http://localhost:3000`.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for more information.
